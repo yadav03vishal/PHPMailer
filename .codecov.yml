@@ -1,7 +1,7 @@
 codecov:
   notify:
     after_n_builds: 2
- 
+  
 coverage:
   round: nearest
   # Status will be green when coverage is between 70 and 100%.
